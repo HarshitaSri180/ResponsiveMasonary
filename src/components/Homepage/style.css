@@ -1,0 +1,11 @@
+.Banner
+{
+    background-image: url('../../assets/images/Banner.png');
+    height:600px;
+   background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+body{
+    
+}
